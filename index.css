@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=710&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    text-align: center;
+    height: 100vh;
+
+    background-size: cover;
+
+
+}
+
+.main-heading {
+    font-family: Caveat;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: yellow;
+}
+
+.paragraph {
+    font-family: "Monospace";
+    font-size: 25px;
+    color: white;
+
+}
+
+.button {
+    height: 60px;
+    width: 100px;
+    background-color: #1bb388;
+    border-radius: 25px;
+    font-size: 20px;
+    font-family: "Roboto";
+    border-width: 0px;
+    color: yellow;
+    transition: 0.5s;
+}
